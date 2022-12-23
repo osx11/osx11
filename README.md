@@ -19,11 +19,11 @@ I'm Grigory, a fullstack developer. I have a lot of personal projects as well as
 
 ### Field of activity
 
-#### Fullstack development:
+#### Fullstack development
 - Backend: Python (Django, FastAPI)
 - Frontend: TypeScript (Svelte, React, React three fiber)
 
-#### Programming languages:
+#### Programming languages
 - TypeScript
 - Java
 - Python
