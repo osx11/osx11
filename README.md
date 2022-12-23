@@ -21,7 +21,7 @@ I'm Grigory, a fullstack developer. I have a lot of personal projects as well as
 
 #### Fullstack development
 - Backend: Python (Django, FastAPI)
-- Frontend: TypeScript (Svelte, React, React three fiber)
+- Frontend: TypeScript (Svelte, React)
 
 #### Programming languages
 - TypeScript
@@ -37,6 +37,7 @@ I'm Grigory, a fullstack developer. I have a lot of personal projects as well as
 - Devops (Docker, deploying)
 - CI/CD
 - JWT authentication
+- Frontend 3D (ThreeJS)
 
 ### Projects information and contacts
 
