@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**osx11/osx11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Grigory, a fullstack developer. I have a lot of personal projects as well as an experience in commercial development.
 
-Here are some ideas to get you started:
+🚀 Besides I love computer games ;)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Field of activity
+
+#### Fullstack development:
+- Backend: Python (Django, FastAPI)
+- Frontend: TypeScript (Svelte, React, React three fiber)
+
+#### Programming languages:
+- TypeScript
+- Java
+- Python
+
+#### Secondary skills
+
+- Work with hardware
+- Databases (including ORM)
+- Linux
+- Event stores (Kafka)
+- Devops (Docker, deploying)
+- CI/CD
+- JWT authentication
+
+### Projects information and contacts
+
+I develop complex SPA applications, standard websites with backend, and desktop applications.
+
+✨I and my team also have a medieval magic game server in Minecraft :O where we have a complex architecture using many technologies.
+
+**You can find my contacts and detail information about my projects on [my website](https://osx11.github.io)**
