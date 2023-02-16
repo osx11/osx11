@@ -20,7 +20,7 @@ I'm Grigory, a fullstack developer. I have a lot of personal projects as well as
 ### Field of activity
 
 #### Fullstack development
-- Backend: Python (Django + DRF, FastAPI, NestJS)
+- Backend: Python (Django + DRF, FastAPI), TypeScript (NestJS)
 - Frontend: TypeScript (Svelte, React)
 
 #### Programming languages
