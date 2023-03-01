@@ -21,7 +21,7 @@ I'm Grigory, a fullstack developer. I have a lot of personal projects as well as
 
 #### Fullstack development
 - Backend: Python (Django + DRF, FastAPI), TypeScript (NestJS)
-- Frontend: TypeScript (Svelte, React, Vue)
+- Frontend: TypeScript (Svelte, React, Vue3)
 
 #### Programming languages
 - TypeScript
