@@ -32,7 +32,8 @@ I'm Grigory, a fullstack developer. I have a lot of personal projects as well as
 #### Secondary skills
 
 - Work with hardware
-- Databases (including ORM)
+- Databases (SQLite, MySQL, Postgres)
+- ORM (TypeOrm, Ktorm)
 - Linux
 - Event stores (Kafka)
 - Devops (Docker, deploying)
