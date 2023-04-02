@@ -26,6 +26,7 @@ I'm Grigory, a fullstack developer. I have a lot of personal projects as well as
 #### Programming languages
 - TypeScript
 - Java
+- Kotlin
 - Python
 
 #### Secondary skills
