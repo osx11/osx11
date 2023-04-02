@@ -24,7 +24,7 @@ I'm Grigory, a fullstack developer. I have a lot of personal projects as well as
 - Frontend: TypeScript (Svelte, React, Vue 3)
 
 #### Programming languages
-- TypeScript
+- JavaScript/TypeScript
 - Java
 - Kotlin
 - Python
