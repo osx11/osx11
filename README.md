@@ -40,6 +40,7 @@ I'm Grigory, a fullstack developer. I have a lot of personal projects as well as
 - CI/CD
 - JWT authentication
 - Frontend 3D (ThreeJS)
+- Electron
 
 ### Projects information and contacts
 
