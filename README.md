@@ -47,5 +47,3 @@ I'm Grigory, a fullstack developer. I have a lot of personal projects as well as
 I develop complex SPA applications, standard websites with backend, and desktop applications.
 
 ✨I and my team also have a medieval magic game server in Minecraft :O where we have a complex architecture using many technologies.
-
-**You can find my contacts and detail information about my projects on [my website](https://osx11.github.io)**
