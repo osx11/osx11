@@ -38,6 +38,9 @@ My name is Grigorii, I'm a full stack developer. I have a some personal projects
 
 #### Secondary skills (have minor experience)
 
+- _NextJS_
+- _NextAuth_
+- _GraphQL (with Nestjs integration) & Apollo client (react)_
 - Vue composition
 - Svelte
 - Linux
