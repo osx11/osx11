@@ -1,3 +1,5 @@
+![](./img/banner-header.gif)
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -57,3 +59,6 @@ My name is Grigorii, I'm a full stack developer. I have a some personal projects
 I develop complex SPA applications, standard websites with backend, and desktop applications.
 
 ☎ You can reach me via [telegram](https://t.me/osx11)
+
+![](./img/banner-footer.gif)
+
