@@ -23,15 +23,24 @@ My name is Grigorii, I'm a full stack developer. I have a some personal projects
 - Frontend: TypeScript (Svelte, React, Vue 3)
 
 #### Programming languages
-- JavaScript/TypeScript
-- Python
-- Java
-- Kotlin
+
+<img height="50" src="./img/typescript.svg" width="50"/>
+<img height="50" src="./img/javascript.svg" width="50"/>
+<img height="50" src="./img/python.svg" width="50"/>
+<img height="50" src="./img/java.svg" width="50"/>
 
 #### Primary skills (have rich experience)
 
+<img height="50" src="./img/react.svg" width="50"/>
+<img height="50" src="./img/nodejs.svg" width="50"/>
+<img height="50" src="./img/nestjs.svg" width="40"/>
+<img height="50" src="./img/github.svg" width="50" style="filter: invert(1)"/>
+<img height="50" src="./img/graphql.svg" width="40"/>
+
 - React
 - ElectronJS
+- NestJS
+- GraphQL (with Nestjs integration) & Apollo client (react)
 - ThreeJS, React three fiber
 - Databases (SQLite, MySQL, Postgres)
 - JWT auth
@@ -40,9 +49,15 @@ My name is Grigorii, I'm a full stack developer. I have a some personal projects
 
 #### Secondary skills (have minor experience)
 
+<img height="50" src="./img/nextjs.svg"/>
+<img height="50" src="./img/debian.svg" width="40"/>
+<img height="50" src="./img/vuejs.svg" width="50"/>
+<img height="50" src="./img/sveltejs.svg" width="40"/>
+<img height="50" src="./img/docker.svg" width="50"/>
+<img height="50" src="./img/django.svg" width="50"/>
+
 - _NextJS_
 - _NextAuth_
-- _GraphQL (with Nestjs integration) & Apollo client (react)_
 - Vue composition
 - Svelte
 - Linux
