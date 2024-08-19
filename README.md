@@ -24,18 +24,22 @@ My name is Grigorii, I'm a full stack developer. I have a some personal projects
 
 #### Programming languages
 
-<img height="50" src="./img/typescript.svg" width="50"/>
-<img height="50" src="./img/javascript.svg" width="50"/>
-<img height="50" src="./img/python.svg" width="50"/>
-<img height="50" src="./img/java.svg" width="50"/>
+<div style="display: flex">
+  <img height="50" src="./img/typescript.svg" width="50"/>
+  <img height="50" src="./img/javascript.svg" width="50"/>
+  <img height="50" src="./img/python.svg" width="50"/>
+  <img height="50" src="./img/java.svg" width="50"/>
+</div>
 
 #### Primary skills (have rich experience)
 
-<img height="50" src="./img/react.svg" width="50"/>
-<img height="50" src="./img/nodejs.svg" width="50"/>
-<img height="50" src="./img/nestjs.svg" width="40"/>
-<img height="50" src="./img/github.svg" width="50" style="filter: invert(1)"/>
-<img height="50" src="./img/graphql.svg" width="40"/>
+<div style="display: flex">
+  <img height="50" src="./img/react.svg" width="50"/>
+  <img height="50" src="./img/nodejs.svg" width="50"/>
+  <img height="50" src="./img/nestjs.svg" width="40"/>
+  <img height="50" src="./img/github.svg" width="50" style="filter: invert(1)"/>
+  <img height="50" src="./img/graphql.svg" width="40"/>
+</div>
 
 - React
 - ElectronJS
@@ -49,12 +53,14 @@ My name is Grigorii, I'm a full stack developer. I have a some personal projects
 
 #### Secondary skills (have minor experience)
 
-<img height="50" src="./img/nextjs.svg"/>
-<img height="50" src="./img/debian.svg" width="40"/>
-<img height="50" src="./img/vuejs.svg" width="50"/>
-<img height="50" src="./img/sveltejs.svg" width="40"/>
-<img height="50" src="./img/docker.svg" width="50"/>
-<img height="50" src="./img/django.svg" width="50"/>
+<div style="display: flex">
+  <img height="50" src="./img/nextjs.svg"/>
+  <img height="50" src="./img/debian.svg" width="40"/>
+  <img height="50" src="./img/vuejs.svg" width="50"/>
+  <img height="50" src="./img/sveltejs.svg" width="40"/>
+  <img height="50" src="./img/docker.svg" width="50"/>
+  <img height="50" src="./img/django.svg" width="50"/>
+</div>
 
 - _NextJS_
 - _NextAuth_
