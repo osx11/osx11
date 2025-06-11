@@ -14,13 +14,13 @@
 
 ### Hi there 👋
 
-My name is Grigorii, I'm a full stack developer. I have a some personal projects as well as rich experience in commercial development.
+My name is Grigorii, I am a full stack developer with a rich experience in modern web development
 
 ### Field of activity
 
 #### Full stack development
-- Backend: Python (Django + DRF, FastAPI), TypeScript (NestJS)
-- Frontend: TypeScript (Svelte, React, Vue 3)
+- Backend: TypeScript (NestJS, NextJS)
+- Frontend: TypeScript (React, Vue 3)
 
 #### Programming languages
 
@@ -28,13 +28,13 @@ My name is Grigorii, I'm a full stack developer. I have a some personal projects
   <img height="50" src="./img/typescript.svg" width="50"/>
   <img height="50" src="./img/javascript.svg" width="50"/>
   <img height="50" src="./img/python.svg" width="50"/>
-  <img height="50" src="./img/java.svg" width="50"/>
 </div>
 
 #### Primary skills (have rich experience)
 
 <div style="display: flex">
   <img height="50" src="./img/react.svg" width="50"/>
+  <img height="50" src="./img/nextjs.svg"/>
   <img height="50" src="./img/nodejs.svg" width="50"/>
   <img height="50" src="./img/nestjs.svg" width="40"/>
   <img height="50" src="./img/github.svg" width="50" style="filter: invert(1)"/>
@@ -42,27 +42,26 @@ My name is Grigorii, I'm a full stack developer. I have a some personal projects
 </div>
 
 - React
-- ElectronJS
 - NestJS
+- NextJS
 - GraphQL (with Nestjs integration) & Apollo client (react)
 - ThreeJS, React three fiber
 - Databases (SQLite, MySQL, Postgres)
 - JWT auth
 - ORM (TypeORM, Ktorm)
-- Communication with COM/HID ports
+- ElectronJS
 
-#### Secondary skills (have minor experience)
+#### Secondary skills
 
 <div style="display: flex">
-  <img height="50" src="./img/nextjs.svg"/>
   <img height="50" src="./img/debian.svg" width="40"/>
   <img height="50" src="./img/vuejs.svg" width="50"/>
   <img height="50" src="./img/sveltejs.svg" width="40"/>
   <img height="50" src="./img/docker.svg" width="50"/>
   <img height="50" src="./img/django.svg" width="50"/>
+  <img height="50" src="./img/java.svg" width="50"/>
 </div>
 
-- _NextJS_
 - _NextAuth_
 - Vue composition
 - Svelte
@@ -77,7 +76,7 @@ My name is Grigorii, I'm a full stack developer. I have a some personal projects
 
 ### Projects information and contacts
 
-I develop complex SPA applications, standard websites with backend, and desktop applications.
+I develop complex SPA applications, backends, and desktop applications.
 
 ☎ You can reach me via [telegram](https://t.me/osx11)
 
